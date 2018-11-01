@@ -1,5 +1,5 @@
 #!/bin/bash
-# @author leandro@serfe.com / Serfe SA
+# @author Serfe.com
 # This script will help to install edge Wordpress version with a really simple wizard
 
 #exit when detect any fails.
